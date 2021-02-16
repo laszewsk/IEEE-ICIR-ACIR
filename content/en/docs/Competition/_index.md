@@ -5,6 +5,8 @@ weight: 4
 menu:
   main:
     weight: 20
+description: >
+  Information on how to participate
 ---
 
 
