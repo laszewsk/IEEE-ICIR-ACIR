@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://github.com/laszewsk/IEEE-ICIR-ACIR"
 title = "IEEE-ICIR-ACIR"
 
 enableRobotsTXT = true
@@ -98,12 +98,12 @@ version = "0.0"
 
 # A link to latest version of the docs. Used in the "version-banner" partial to
 # point people to the main doc site.
-url_latest_version = "https://example.com"
+url_latest_version = "https://laszewsk.github.io/IEEE-ICIR-ACIR"
 
 # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
-github_repo = "https://github.com/google/docsy-example"
+github_repo = "https://github.com/laszewsk/IEEE-ICIR-ACIR"
 # An optional link to a related project repo. For example, the sibling repository where your product code lives.
-github_project_repo = "https://github.com/google/docsy"
+github_project_repo = "https://github.com/laszewsk/IEEE-ICIR-ACIR"
 
 # Specify a value here if your content directory is not in your repo's root directory
 # github_subdir = ""
@@ -113,7 +113,7 @@ github_project_repo = "https://github.com/google/docsy"
 github_branch= "main"
 
 # Google Custom Search Engine ID. Remove or comment out to disable search.
-gcs_engine_id = "011737558837375720776:fsdu1nryfng"
+# gcs_engine_id = "011737558837375720776:fsdu1nryfng"
 
 # Enable Algolia DocSearch
 algolia_docsearch = false
@@ -142,10 +142,10 @@ footer_about_disable = false
 # If you want this feature, but occasionally need to remove the "Feedback" section from a single page,
 # add "hide_feedback: true" to the page's front matter.
 [params.ui.feedback]
-enable = true
+enable = false
 # The responses that the user sees after clicking "yes" (the page was helpful) or "no" (the page was not helpful).
-yes = 'Glad to hear it! Please <a href="https://github.com/USERNAME/REPOSITORY/issues/new">tell us how we can improve</a>.'
-no = 'Sorry to hear that. Please <a href="https://github.com/USERNAME/REPOSITORY/issues/new">tell us how we can improve</a>.'
+#yes = 'Glad to hear it! Please <a href="https://github.com/USERNAME/REPOSITORY/issues/new">tell us how we can improve</a>.'
+#no = 'Sorry to hear that. Please <a href="https://github.com/USERNAME/REPOSITORY/issues/new">tell us how we can improve</a>.'
 
 # Adds a reading time to the top of each doc.
 # If you want this feature, but occasionally need to remove the Reading time from a single page, 
