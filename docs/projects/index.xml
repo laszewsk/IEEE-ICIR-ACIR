@@ -7,8 +7,12 @@
 &lt;/ul>
 &lt;p>&lt;strong>Are you a University Student?&lt;/strong> Yes/No&lt;/p>
 &lt;p>For students, please indicate your degree program:&lt;/p>
+&lt;h2 id="screenshot">Screenshot&lt;/h2>
+&lt;img src="sample.png">
+&lt;p>Figure 1: When you finalize your project add a screenshot or image&lt;/p>
 &lt;h2 id="description-of-the-ir-application">Description of the IR Application&lt;/h2>
 &lt;p>Please fill out&lt;/p>
+&lt;p>The project does &amp;hellip;. &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>.&lt;/p>
 &lt;h2 id="additional-information">Additional Information&lt;/h2>
 &lt;p>&lt;strong>How does AI machine learning enhance your application?&lt;/strong>&lt;/p>
 &lt;p>Please fill out&lt;/p>
@@ -35,4 +39,14 @@
 &lt;li>
 &lt;p>[yes] I have read and agree to the IEEE Event Registration Terms and Conditions&lt;/p>
 &lt;/li>
-&lt;/ul></description></item></channel></rss>
+&lt;/ul>
+&lt;h2 id="refernces">Refernces&lt;/h2>
+&lt;p>Here we put an example reference&lt;/p>
+&lt;section class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1" role="doc-endnote">
+&lt;p>Gregor von Laszewski, Cloudmesh Manual, &lt;a href="https://cloudmesh.github.io/cloudmesh-manual/">https://cloudmesh.github.io/cloudmesh-manual/&lt;/a> &lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/section></description></item></channel></rss>
