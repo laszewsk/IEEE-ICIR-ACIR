@@ -1,0 +1,38 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>IEEE-ICIR-ACIR – Projects</title><link>https://laszewsk.github.io/IEEE-ICIR-ACIR/docs/projects/</link><description>Recent content in Projects on IEEE-ICIR-ACIR</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://laszewsk.github.io/IEEE-ICIR-ACIR/docs/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: An Example Project</title><link>https://laszewsk.github.io/IEEE-ICIR-ACIR/docs/projects/sample/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://laszewsk.github.io/IEEE-ICIR-ACIR/docs/projects/sample/</guid><description>
+&lt;h2 id="the-title">The title&lt;/h2>
+&lt;p>Team name:&lt;/p>
+&lt;p>Authors:&lt;/p>
+&lt;ul>
+&lt;li>First Name, Last Name, Email, Affiliation&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Are you a University Student?&lt;/strong> Yes/No&lt;/p>
+&lt;p>For students, please indicate your degree program:&lt;/p>
+&lt;h2 id="description-of-the-ir-application">Description of the IR Application&lt;/h2>
+&lt;p>Please fill out&lt;/p>
+&lt;h2 id="additional-information">Additional Information&lt;/h2>
+&lt;p>&lt;strong>How does AI machine learning enhance your application?&lt;/strong>&lt;/p>
+&lt;p>Please fill out&lt;/p>
+&lt;p>&lt;strong>Which AI machine learning technique(s) do you plan to implement?&lt;/strong>&lt;/p>
+&lt;p>Please fill out&lt;/p>
+&lt;p>&lt;strong>Which development platform (PC/Mac/etc.), software, and tools do you plan to use?&lt;/strong>&lt;/p>
+&lt;p>Please fill out&lt;/p>
+&lt;p>&lt;strong>IEEE Privacy Policy&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.ieee.org/security-privacy.html">https://www.ieee.org/security-privacy.html&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;ul>
+&lt;li>[yes] I have read and agree to the IEEE Privacy Policy&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>IEEE Event Registration&lt;/strong>&lt;/p>
+&lt;p>Terms and Conditions&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.ieee.org/conferences/event-terms-and-conditions.html">https://www.ieee.org/conferences/event-terms-and-conditions.html&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.ieee.org/conferences/event-terms-and-conditions.html">https://www.ieee.org/conferences/event-terms-and-conditions.html&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[yes] I have read and agree to the IEEE Event Registration Terms and Conditions&lt;/p>
+&lt;/li>
+&lt;/ul></description></item></channel></rss>
